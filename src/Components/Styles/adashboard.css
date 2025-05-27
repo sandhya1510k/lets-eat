@@ -1,0 +1,4 @@
+/* Only styles not covered by Bootstrap (optional) */
+.card {
+  border-radius: 0.5rem;
+}
